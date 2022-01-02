@@ -1,0 +1,34 @@
+^build/
+^doc/
+out$
+^out\.
+^vrptwms$
+\.kdev4
+
+# the test runner
+tests/testrunner
+
+# automatically generated dependency file
+\.depend\.mk$
+
+# core dumps
+^core$
+/core$
+
+# temporary tests
+_temp
+
+# backup files
+~$
+
+# filetypes
+\.bak$
+\.cmake$
+\.d$
+\.kate-swp$
+\.kdev4$
+\.o$
+\.old$
+\.orig$
+\.out$
+\.txt$
